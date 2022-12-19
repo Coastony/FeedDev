@@ -9,9 +9,11 @@
 - ``HTML5``
 - ``CSS3``
 - ``JavaScript``
+- ``TypeScript``
 - ``ReactJS``
 - ``Google Fonts``
 - ``Color Hunt``
+
 <br>
 
 <p align="center">
