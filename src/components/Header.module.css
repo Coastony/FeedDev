@@ -1,0 +1,19 @@
+.header {
+    background: var(--gray-700);
+    display: flex;
+    justify-content: center;
+    padding: 1.25rem 0;
+}
+
+
+/* .header img {
+    height: 2rem; 32px
+} */
+
+.header h1 span {
+    color: #181717;
+}
+
+.header h1 {
+    color: #ece7e7;
+}
