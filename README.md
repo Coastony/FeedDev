@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
- <img src="images/Countdown.png" width="550" alt="Image project">
+ <img src="src/assets/FeedDev.png" width="550" alt="Image project">
 </p>
 
 ## 📁 Project access
