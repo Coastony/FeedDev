@@ -10,7 +10,21 @@ import './global.css';
 // publishedAt: Date
 // content: String
 
-const posts = [
+interface Posts {
+  id: number;
+  author: {
+    avatarUrl: string;
+    name: string;
+    role: string;
+  },
+  content: {
+    type: 'paragraph' | 'link';
+    content: string;
+  }[],
+  publishedAt: Date
+}
+
+const posts:Posts[] = [
   {
     id: 1,
     author: {
