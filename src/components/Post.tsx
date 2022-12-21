@@ -14,7 +14,7 @@ interface Author {
 }
 
 interface Content {
-    type: 'paragraph' | 'link' | 'user';
+    type: 'paragraph' | 'link';
     content: string | number;
 }
 
